@@ -38,12 +38,14 @@ mkdir -p input/pdfs
 
 
 Folder layout:
+```plaintext
 your-working-directory/
 ├── input/
 │   └── pdfs/
 │       ├── lecture1.pdf
 │       └── notes.pdf
 └── output/
+```
 
 Place all the PDF files you want to analyze inside the 'input/pdfs' folder.
 
