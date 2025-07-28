@@ -104,7 +104,7 @@ For each `yourfile.pdf` in the `input/pdfs/` directory, a corresponding `yourfil
 
 - **Deon Sajan** — B.Tech CSE, Amrita Vishwa Vidyapeetham  
 - **Sidharth R Krishna** — B.Tech CSE, Amrita Vishwa Vidyapeetham  
-- **Yampathi Sai Sailesh Reddy** — B.Tech CSE, Amrita Vishwa Vidyapeetham
+- **Yampati Sai Sailesh Reddy** — B.Tech CSE, Amrita Vishwa Vidyapeetham
 
 ---
 
