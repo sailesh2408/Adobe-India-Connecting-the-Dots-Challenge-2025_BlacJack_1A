@@ -153,4 +153,4 @@ if __name__ == '__main__':
                 output_path = os.path.join(OUTPUT_DIR, output_filename)
                 with open(output_path, 'w', encoding='utf-8') as f:
                     json.dump(structured_data, f, indent=4, ensure_ascii=False)
-                print(f"✅ Successfully created outline at {output_path}")
+                print(f"Successfully created outline at {output_path}")
