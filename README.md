@@ -1,11 +1,5 @@
-# Adobe-India-Connecting-the-Dots-Challenge-2025_1A
+# TextSense - From clutter to clarity
 
-## Adobe India Hackathon 2025: Round 1A - Document Outline Extractor  
-**Submission for the "Connecting the Dots" Challenge**
-
-This repository contains the complete solution for Round 1A. The objective is to develop a robust and efficient service that extracts a structured outline (Title, H1, H2, H3) from PDF documents, with a focus on accurately handling complex, real-world files.
-
----
 
 ## Our Methodology
 
